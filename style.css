@@ -486,6 +486,8 @@ aside{
             transform: rotate(-45deg);
         }
     }
+    .textBox{
+        height : 30%}
     .subtitle{
         font-size: 1rem;
         margin-top: 1rem;
